@@ -59,6 +59,6 @@ The application is split into multiple microservices that communicate through RE
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/Ecommerce-Microservices-SpringBoot.git
+git clone https://github.com/nnourmmohamedd/Ecommerce-Microservices-SpringBoot.git
 cd Ecommerce-Microservices-SpringBoot
 
